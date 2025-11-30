@@ -1,6 +1,7 @@
 ## Hi I am D176-zp. 👋
 Welcom to my Github.
-
+https://img.shields.io/badge/github-repo-blue?logo=github
+https://img.shields.io/badge/github-repo-blue?logo=bilibili
 <!--
 **dangzp123-creator/dangzp123-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
