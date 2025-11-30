@@ -1,7 +1,9 @@
 ## Hi I am D176-zp. 👋
 Welcom to my Github.
-badgeContent-https://img.shields.io/badge/github-repo-blue?logo=github
-badgeContent-https://img.shields.io/badge/bilibili-repo-blue?logo=bilibili
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangzp123-creator&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mq-b&show_icons=true&theme=tokyonight)]([https://b23.tv/iEJTnPp](https://space.bilibili.com/628321008?spm_id_from=333.337.0.0))
+
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
 <!--
 **dangzp123-creator/dangzp123-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
