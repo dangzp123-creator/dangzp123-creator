@@ -12,10 +12,8 @@ Welcom to my Github.
 </div>
 
 ![Modern C++ template][github-sub-title:img]
-
 ![](https://github.com/dangzp123-creator/dangzp123-creator/blob/main/%E8%83%8C%E6%99%AF.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/Mq-b/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=dangzp123-creator.
 <!--
