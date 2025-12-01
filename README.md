@@ -4,16 +4,16 @@
 <a href="https://github.com/dangzp123-creator"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" alt="Github"></a>
   <a href="mailto:dangzp123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://space.bilibili.com/628321008"><img src="https://img.shields.io/badge/-Bilibili-ff69b4?style=flat&logo=bilibili&logoColor=white" alt="Outlook"></a>
-
+  
 ![](https://img.shields.io/badge/专业-计科-yellow) 
-![](https://img.shields.io/badge/性格-未知-red) 
-![](https://img.shields.io/badge/爱好-睡觉-red)
-
+![](https://img.shields.io/badge/性格-未知-blue) 
+![](https://img.shields.io/badge/爱好-睡觉-green)
 </div>
 
 ![Modern C++ template][github-sub-title:img]
 
 ![](https://github.com/dangzp123-creator/dangzp123-creator/blob/main/%E8%83%8C%E6%99%AF.jpg)
+
 
 - 🔭 I’m currently working on my undergraduate studies in Computer Science and Technology
 - 👯 I’m looking to collaborate with people that have same interests
