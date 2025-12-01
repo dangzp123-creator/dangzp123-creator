@@ -20,8 +20,7 @@
 - 📫 How to reach me: Click the badge on the image
 
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dangzp123-creator&theme=react-dark&radius=12&color=FDB927&line=006BB6&point=FDB927)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dangzp123-creator&theme=react-dark&radius=12&color=0099B6&line=006BB6&point=99B600)
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake-dark.svg">
