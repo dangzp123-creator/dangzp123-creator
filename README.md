@@ -22,13 +22,18 @@
 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dangzp123-creator&theme=react-dark&radius=12&color=FDB927&line=006BB6&point=FDB927)
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake.svg">
 
+
+
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=dangzp123-creator.
+<p align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
 <!--
 **dangzp123-creator/dangzp123-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
